@@ -1,0 +1,28 @@
+Using file: 10.txt
+No overlap detected!
+Final cost: 16
+Final chip width: 49, chip height: 16
+Utilization: 94.52%
+Solution exported to output/10/floorplan.txt
+Time taken: 1.31 seconds
+Using file: 50.txt
+No overlap detected!
+Final cost: 56
+Final chip width: 97, chip height: 56
+Utilization: 73.90%
+Solution exported to output/50/floorplan.txt
+Time taken: 8.59 seconds
+Using file: 200.txt
+No overlap detected!
+Final cost: 353
+Final chip width: 298, chip height: 353
+Utilization: 51.10%
+Solution exported to output/200/floorplan.txt
+Time taken: 88.44 seconds
+Using file: 500.txt
+No overlap detected!
+Final cost: 1447
+Final chip width: 998, chip height: 1447
+Utilization: 42.69%
+Solution exported to output/500/floorplan.txt
+Time taken: 566.95 seconds
